@@ -1,2 +1,2 @@
 # OCR_App
-using Grfadio and EasyOCR
+using Gradio and EasyOCR
